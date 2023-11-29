@@ -1,2 +1,1 @@
 # prisIdr
-conflict 1
